@@ -1,1 +1,1 @@
-# gas
+# Google Spread Sheet（GAS）の調査
